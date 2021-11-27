@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Ceviche+One&family=PT+Serif:ital@1&family=Zen+Old+Mincho:wght@900&display=swap");
+body {
+  background-color:white ;
+  max-width: 99%;
+  max-height: 100%;
+
+}
+.title {
+  font-family: "Ceviche One", cursive;
+  text-align: center;
+  margin-top: 2%;
+  max-height: 100vh;
+  max-width: 100vw;
+}
+
+.firstPage {
+  text-align: center;
+}
+.nbc{
+  background-color:#bd0421;
+  color:#EAE2B7;
+}
+
+.bb{
+  margin-top:100px;
+  border:3px solid black;
+  box-shadow: 5px 5px 5px #888888;
+  width:33%;
+
+}
